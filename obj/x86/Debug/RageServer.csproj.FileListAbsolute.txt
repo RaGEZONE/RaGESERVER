@@ -1,0 +1,15 @@
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\RageServer.exe.config
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\obj\x86\Debug\RageServer.csprojResolveAssemblyReference.cache
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\RageServer.exe
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\RageServer.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\FluentNHibernate.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\Iesi.Collections.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\JavApi.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\log4net.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\mysql.data.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\NHibernate.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\Iesi.Collections.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\log4net.xml
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\obj\x86\Debug\RageServer.exe
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\obj\x86\Debug\RageServer.pdb
