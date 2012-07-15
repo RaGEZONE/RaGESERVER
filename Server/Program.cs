@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using NHibernate;
 using RageServer.Server.MySQL.Manager;
+using Mango;
 using java = biz.ritter.javapi; 
 
 namespace RageServer
@@ -12,12 +13,15 @@ namespace RageServer
     {
         private static ISessionFactory _sessionFactory;
 
-        private static ISessionFactory sessionFactory;
+       // private static ISessionFactory sessionFactory;
+
+        
 
         static void Main()
         {
             string connectionString = "localhost,port,user,password,maxpool,minpool";
             _sessionFactory = MySQLNHibernateCore.InstanceNewFactory(connectionString);
+            
         }
 
         public static ISessionFactory Factory()

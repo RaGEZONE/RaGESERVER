@@ -13,3 +13,6 @@ C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\R
 C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\bin\Debug\log4net.xml
 C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\obj\x86\Debug\RageServer.exe
 C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageServer\obj\x86\Debug\RageServer.pdb
+C:\Users\Admin\Documents\GitHub\RaGESERVER\bin\Debug\RageServer.exe.config
+C:\Users\Admin\Documents\GitHub\RaGESERVER\obj\x86\Debug\RageServer.exe
+C:\Users\Admin\Documents\GitHub\RaGESERVER\obj\x86\Debug\RageServer.pdb
