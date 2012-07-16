@@ -16,3 +16,12 @@ C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\R
 C:\Users\Admin\Documents\GitHub\RaGESERVER\bin\Debug\RageServer.exe.config
 C:\Users\Admin\Documents\GitHub\RaGESERVER\obj\x86\Debug\RageServer.exe
 C:\Users\Admin\Documents\GitHub\RaGESERVER\obj\x86\Debug\RageServer.pdb
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\RageServer.exe.config
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\obj\x86\Debug\RageServer.exe
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\obj\x86\Debug\RageServer.pdb
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\RageServer.exe
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\RageServer.pdb
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\FluentNHibernate.pdb
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\Iesi.Collections.pdb
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\bin\Debug\log4net.xml
+D:\Users\Audun\Documents\Visual Studio 2010\Projects\RaGESERVER\obj\x86\Debug\RageServer.csprojResolveAssemblyReference.cache
