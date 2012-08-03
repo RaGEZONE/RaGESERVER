@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RageServer</RootNamespace>
     <AssemblyName>RageServer</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -40,8 +40,9 @@
     <Reference Include="FluentNHibernate">
       <HintPath>..\..\..\..\..\Desktop\mattysouthall-mango-c-a8ef59a470a9392c1ca1bae0c8700782a95d3358\packages\FluentNHibernate.1.2.0.712\lib\FluentNHibernate.dll</HintPath>
     </Reference>
-    <Reference Include="Iesi.Collections">
-      <HintPath>..\..\..\..\..\Desktop\mattysouthall-mango-c-a8ef59a470a9392c1ca1bae0c8700782a95d3358\packages\Iesi.Collections.3.1.0.4000\lib\Net35\Iesi.Collections.dll</HintPath>
+    <Reference Include="Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\RevolutionDatabase\bin\Debug\Iesi.Collections.dll</HintPath>
     </Reference>
     <Reference Include="JavApi">
       <HintPath>..\..\..\..\..\Downloads\JavApi.dll</HintPath>
@@ -65,6 +66,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <Compile Include="Server\MySQL\Data Object Access\Controllers\UserController.cs" />
+=======
     <Compile Include="Server\Habbo\Messages\ClientMessage.cs" />
     <Compile Include="Server\Habbo\Messages\Events\Advertisement\GetInterstitial.cs" />
     <Compile Include="Server\Habbo\Messages\Events\Advertisement\GetRoomAd.cs" />
@@ -313,6 +317,7 @@
     <Compile Include="Server\Habbo\Messages\Events\Users\UnignoreUser.cs" />
     <Compile Include="Server\Habbo\Messages\IMessageEvent.cs" />
     <Compile Include="Server\Habbo\Messages\ServerMessage.cs" />
+>>>>>>> 3c8c5d040ad31e6704947f980c429df5f011beea
     <Compile Include="Server\MySQL\Data Object Access\Interface\IDAO.cs" />
     <Compile Include="Server\MySQL\Data Object Access\Loader\DAOLoader.cs" />
     <Compile Include="Server\MySQL\Manager\MySQLNHibernateCore.cs" />
@@ -328,12 +333,17 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Server\MySQL\Data Object Access\Controllers\" />
     <Folder Include="Server\MySQL\Fluent Mapped Files\Entitys\" />
     <Folder Include="Server\MySQL\Fluent Mapped Files\Maps\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RageDatabase\RageDatabase.csproj">
+      <Project>{77C6AA23-421A-48E8-9BE2-3BB5A3445268}</Project>
+      <Name>RageDatabase</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

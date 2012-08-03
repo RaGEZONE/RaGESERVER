@@ -1,0 +1,10 @@
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\RageDatabase.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\RageDatabase.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\obj\Debug\RageDatabase.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\obj\Debug\RageDatabase.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\obj\Debug\RageDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\FluentNHibernate.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\Iesi.Collections.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\NHibernate.dll
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\FluentNHibernate.pdb
+C:\Users\Lol At This Username\Documents\Visual Studio 2010\Projects\RageServer\RageDatabase\bin\Debug\Iesi.Collections.pdb
