@@ -7,8 +7,8 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("RaGESERVER")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyConfiguration("AresCJ, ZAK, AWA500, Mikkel, and Makarov")]
+[assembly: AssemblyCompany("MMORPG RaGEZONE Forum")]
 [assembly: AssemblyProduct("RaGESERVER")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
